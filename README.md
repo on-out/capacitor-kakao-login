@@ -1,6 +1,11 @@
 # @onout/capacitor-kakao-login
 
-capacitor for kakao login
+[![NPM version][npm-image]][npm-url]
+[![Downloads][downloads-image]][npm-url]
+
+[npm-url]: https://npmjs.org/package/@onout/capacitor-kakao-login
+[downloads-image]: http://img.shields.io/npm/dm/@onout/capacitor-kakao-login.svg
+[npm-image]: http://img.shields.io/npm/v/@onout/capacitor-kakao-login.svg
 
 ## Install
 
