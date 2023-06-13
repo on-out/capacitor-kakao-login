@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-kakao-login",
+  "name": "@onout/capacitor-kakao-login",
   "version": "0.0.1",
   "description": "capacitor for kakao login",
   "main": "dist/plugin.cjs.js",
@@ -74,5 +74,6 @@
     "android": {
       "src": "android"
     }
-  }
+  },
+  "homepage": "https://github.com/on-out/capacitor-kakao-login#readme"
 }
