@@ -1,11 +1,11 @@
-# capacitor-kakao-login
+# @onout/capacitor-kakao-login
 
 capacitor for kakao login
 
 ## Install
 
 ```bash
-npm install capacitor-kakao-login
+npm install @onout/capacitor-kakao-login
 npx cap sync
 ```
 
