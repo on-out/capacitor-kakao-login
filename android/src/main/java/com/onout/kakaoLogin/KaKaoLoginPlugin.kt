@@ -1,4 +1,4 @@
-package com.onout.app
+package com.onout.kakaoLogin
 
 import android.content.ContentValues.TAG
 import com.getcapacitor.JSObject
